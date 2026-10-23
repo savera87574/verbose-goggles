@@ -12,7 +12,7 @@ export async function onRequest(context) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome</title>
-    <meta property="og:title" content="Love & War">
+    <meta property="og:title" content="❤️💙💛💜">
     <meta property="og:description" content="..........">
     <meta property="og:image" content="https://lh3.googleusercontent.com/d/1KWWNBfUxMhxpT-VBi2FMsXjvUMY9D7li">
     <meta property="og:url" content="https://www.google.com">
